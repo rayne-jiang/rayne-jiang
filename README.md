@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayne</h1>
 <h3 align="center">A Back-End Developer</h3>
-
-- 📝 I regularly write articles on [https://rayne-jiang.github.io/](https://rayne-jiang.github.io/)
+<!-- 
+- 📝 I regularly write articles on [https://rayne-jiang.github.io/](https://rayne-jiang.github.io/) -->
 
 - 📫 How to reach me **raynechiang5235@gmail.com**
 
