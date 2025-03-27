@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **raynechiang5235@gmail.com**
 
-- ⚡ Fun fact **Raised a cat recently，feel free to reach out**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raynejiang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raynejiang/" height="30" width="40" /></a>
